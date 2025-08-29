@@ -1,8 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/martin-zhou-8b12b336b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="mailto:martinzhou009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=martinzhou009&style=flat-square&color=blue" alt=""></p>
